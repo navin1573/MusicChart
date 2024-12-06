@@ -7,8 +7,8 @@ import java.io.IOException;
 import java.util.Base64;
 
 public class SpotifyAPI {
-    private static final String CLIENT_ID = "8f55bccb10534ca78532988d9eccf8ac";  // Replace with your actual Client ID
-    private static final String CLIENT_SECRET = "1de4f2a534b34454864ae467ce38c465";  // Replace with your actual Client Secret
+    private static final String CLIENT_ID = "your-client-id";  // Replace with your actual Client ID
+    private static final String CLIENT_SECRET = "your-client-secret";  // Replace with your actual Client Secret
     private static final String TOKEN_URL = "https://accounts.spotify.com/api/token";
 
     /**
